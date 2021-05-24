@@ -46,7 +46,6 @@ for number in  numbers:
 
 print(output)
 
-
 # 6
 print("\n추가 문제")
 # 1 ~ 100까지 짝수만 list(even_list)에 저장하고 출력하시오
